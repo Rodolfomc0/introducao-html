@@ -5,3 +5,4 @@
 ### Commit -3 Usando Textos e Links em HTML
 ### Commit -4 Usando Imagens no Site
 ### Commit -5 Adicionando Listas Ordenada e nao ordenada
+### Commit -6 Introduçao ao CSS
