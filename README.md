@@ -7,3 +7,4 @@
 ##### Commit -5 Adicionando Listas Ordenada e nao ordenada
 ##### Commit -6 Introduçao ao CSS
 ##### Commit -7 Estilizando elementos
+##### Commit -8 Dimensao e alinhamento
